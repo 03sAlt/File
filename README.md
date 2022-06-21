@@ -8,7 +8,7 @@ sound.SoundId = "rbxassetid://6958727243"
 sound.Looped = false
 sound:Play()
 
-local Lib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/03sAlt/Ui/main/README.md"),true))()
+local Lib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/03sAlt/ee/main/README.md"),true))()
 Lib.prompt('Discord = 03.s#6260', 'Welcome '  .. game.Players.LocalPlayer.Name, 3)
 
 
@@ -78,6 +78,6 @@ elseif PlaceId == 6953291455 or PlaceId == 6953291455 or PlaceId == 6953291455 t
 
 
 else
-local Lib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/03sAlt/Ui/main/README.md"),true))() 
+local Lib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/03sAlt/ee/main/README.md"),true))() 
 Lib.prompt('03.s#6260 Say', 'Game Not Supported Daddy')
 end
