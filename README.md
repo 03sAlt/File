@@ -59,8 +59,7 @@ elseif PlaceId == 3956818381 or PlaceId == 3956818381 or PlaceId == 3956818381 t
 elseif PlaceId == 6953291455 or PlaceId == 6953291455 or PlaceId == 6953291455 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/EatingSimulator/main/README.md"))()
 
-elseif PlaceId == 8992150289 or PlaceId == 8992150289 or PlaceId == 8992150289 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/AnimeSwordSimulator/main/README.md"))()
+
 
 else
 local Lib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/03sAlt/Ui/main/README.md"),true))() 
