@@ -12,8 +12,6 @@ local Lib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/03sAlt/e
 Lib.prompt('Discord = 03.s#6260', 'Welcome '  .. game.Players.LocalPlayer.Name, 3)
 
 
-
-
 local PlaceId = game.PlaceId
 
 if PlaceId == 5327880096 then
@@ -75,7 +73,8 @@ elseif PlaceId == 3956818381 or PlaceId == 3956818381 or PlaceId == 3956818381 t
 elseif PlaceId == 6953291455 or PlaceId == 6953291455 or PlaceId == 6953291455 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/EatingSimulator/main/README.md"))()
 
-
+elseif PlaceId == 8992150289 or PlaceId == 8992150289 or PlaceId == 8992150289 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/AnimeSwordSimulator/main/README.md"))()
 
 else
 local Lib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/03sAlt/ee/main/README.md"),true))() 
